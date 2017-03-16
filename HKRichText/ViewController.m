@@ -19,9 +19,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     // 文本插入图片
-//    [self richTextWithImage];
+    [self richTextWithImage];
     // 文本中文字，用不同的方式显示
-    [self richTextWithKindOfTypes];
+//    [self richTextWithKindOfTypes];
 }
 
 
